@@ -1,5 +1,4 @@
-### Hello there! My name is Nicolas Mayoral
-I'm a Software engineering student currently living in Argentina. 👋
+### Hello there! My name is Nicolas Mayoral 👋
 
 - 🌱 I’m currently learning Python, Bash, and a bit of JS.
 - 👨‍💻 I'm also interested in security, hacking (only for academic purposes 😄) , and anything on how it works a OS.
