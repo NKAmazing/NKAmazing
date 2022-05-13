@@ -1,6 +1,6 @@
 ### Hello there! My name is Nicolas Mayoral 👋
 
-- 🌱 I’m currently learning Python, Bash, SQL, Shell script and a bit of JS.
+- 🌱 I’m currently learning Python, Bash, SQL, Shell script, etc.
 - 👨‍💻 I'm also interested in security, hacking (only for academic purposes 😄) , and anything on how it works a OS.
 
 <h3 align="left">Connect with me:</h3>
