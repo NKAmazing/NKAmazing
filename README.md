@@ -1,4 +1,4 @@
-### Hello there! My name is Nicolas Mayoral 👋
+### Hello there! My name is Nicolas. 👋
 
 - 👨‍💻 I’m currently learning Flask, Django and Docker.
 
