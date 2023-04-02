@@ -1,6 +1,6 @@
 ### Hello there! My name is Nicolas. 👋
 
-- 👨‍💻 I’m currently learning Flask, Django and Docker. Also
+- 👨‍💻 I’m currently learning Flask, Django and Docker.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
