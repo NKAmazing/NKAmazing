@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!👋 My name is Nicolas.</h1>
 
-- 👨‍💻 I’m currently learning Flask, Django and Docker.
-- 🔭 Currently my projects are dedicated to web and software development
+- 🌱 I’m currently learning Flask, Django and Docker.
+- 👨‍💻 Currently my projects are dedicated to web and software development
 
 
 <h3 align="left">My contributions:</h3>
