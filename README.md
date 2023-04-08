@@ -6,7 +6,7 @@
 
 <h3 align="left">My contributions:</h3>
 <a href="https://github.com/NKAmazing">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&theme=codeSTACKr&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKAmazing&theme=codeSTACKr&layout=compact&langs_count=7"/>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+&count_private=true
 -->
