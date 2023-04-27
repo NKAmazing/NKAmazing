@@ -6,7 +6,7 @@
 
 <h2 align="left">My contributions</h2>
 
-<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&hide=&count_private=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=171717&hide_border=true&show_icons=true" alt="Nicolas's GitHub stats" /></a>
+<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&include_all_commits=true&hide=&count_private=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=171717&hide_border=true&show_icons=true" alt="Nicolas's GitHub stats" /></a>
 <a href="https://github.com/NKAmazing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKAmazing&layout=compact&langs_count=7&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=171717&hide_border=true&locale=en"/></a>
 <a href="http://www.github.com/NKAmazing"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NKAmazing&stroke=ffffff&background=171717&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/NKAmazing"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NKAmazing&bg_color=171717&color=ffffff&line=ff0000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
