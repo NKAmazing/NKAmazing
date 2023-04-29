@@ -4,16 +4,12 @@
 - 👨‍💻 At the moment, almost all my projects are dedicated to web and software development.
 
 
-<h2 align="left">My contributions</h2>
+<h3 align="left">My contributions:</h3>
 
 <a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&include_all_commits=true&hide=&count_private=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=171717&hide_border=true&show_icons=true" alt="Nicolas's GitHub stats" /></a>
 <a href="https://github.com/NKAmazing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKAmazing&layout=compact&langs_count=7&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=171717&hide_border=true&locale=en"/></a>
-<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NKAmazing&stroke=ffffff&background=171717&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NKAmazing&bg_color=171717&color=ffffff&line=ff0000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-<h2 align="left">Working Tools</h2>
-
+<h3 align="left">Working Tools:</h3>
 
 <p align="left"> 
 
@@ -39,7 +35,19 @@
 
 </p>
 
-<h2 align="left">Contact with me</h3>
+<details>
+<summary><samp><b>More Info</b></samp></summary>
+
+<h3 align="left">My Activity:</h3>
+ 
+<p align="center">
+ 
+<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NKAmazing&stroke=ffffff&background=171717&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NKAmazing&bg_color=171717&color=ffffff&line=ff0000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ 
+</p>
+
+<h3 align="left">Contact with me:</h3>
 
 <p align="left">
 <a href="https://stackoverflow.com/users/18696853/nkamazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nkamazing" height="50" width="50" /></a><a href="https://discord.gg/NKAmazingg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NKAmazingg" height="50" width="50" /></a>
