@@ -6,8 +6,8 @@
 
 <h3 align="left">My contributions:</h3>
 
-<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Nicolas's GitHub stats" /></a>
-<a href="https://github.com/NKAmazing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKAmazing&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true&locale=en"/></a>
+<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Nicolas's GitHub stats" /></a>
+<a href="https://github.com/NKAmazing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKAmazing&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true"/></a>
 
 <h3 align="left">Working Tools:</h3>
 
