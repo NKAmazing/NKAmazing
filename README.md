@@ -41,6 +41,7 @@
 <a href="https://stackoverflow.com/users/18696853/nkamazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nkamazing" height="50" width="50" /></a><a href="https://discord.gg/NKAmazingg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NKAmazingg" height="50" width="50" /></a>
 </p>
 
+<!--
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
@@ -49,9 +50,11 @@
 <p align="center">
  
 <a href="http://www.github.com/NKAmazing"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NKAmazing&stroke=ffffff&background=171717&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ 
 <a href="http://www.github.com/NKAmazing"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NKAmazing&bg_color=171717&color=ffffff&line=ff0000&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  
 </p>
+-->
 
 <!--
 **NKAmazing/NKAmazing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
