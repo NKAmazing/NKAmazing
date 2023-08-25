@@ -1,12 +1,12 @@
 <h1 align="center">Hello there!👋 My name is Nicolas.</h1>
 
-- 🌱 I’m currently learning Flask, Django and Docker.
-- 👨‍💻 At the moment, almost all my projects are dedicated to web and software development.
+- 🌱 I’m currently learning Spring, Expo and Docker.
+- 👨‍💻 I usually work with Django or Flask.
 
 
 <h3 align="left">My contributions:</h3>
 
-<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&theme=codeSTACKr&hide_border=true&" alt="Nicolas's GitHub stats" /></a>
+<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true" alt="Nicolas's GitHub stats" /></a>
 <a href="https://github.com/NKAmazing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKAmazing&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true&hide=jupyter%20notebook,html"/></a>
 
 <h3 align="left">Working Tools:</h3>
