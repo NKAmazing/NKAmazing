@@ -36,7 +36,7 @@ I have interests on several computer areas of programming such as **web developm
 
 <p align="left">
  
-  <a href="www.linkedin.com/in/nicolás-mayoral-4265b0270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas mayoral" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nicolás-mayoral-4265b0270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas mayoral" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/18696853/nkamazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nkamazing" height="50" width="50" /></a>
   <a href="https://discord.gg/NKAmazingg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NKAmazingg" height="50" width="50" /></a>
 
