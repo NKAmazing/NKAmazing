@@ -1,15 +1,22 @@
 <h1 align="center">Hello there!👋 My name is Nicolas.</h1>
 
-- 🌱 I’m currently learning Spring, Expo and Docker.
-- 👨‍💻 I usually work with Django or Flask.
+I’m a **Software Engineering Student** at the **University of Mendoza**, Argentina. Currently, i'm learning new tecnologies that allows me to improve my skills.
+I have interests on several computer areas of programming such as **web development, database management or data science**.</b>
 
+- 🌱 I’m currently learning **AI, Data Science and Cybersecurity.**
+- 🔭 I mostly work with the programming language **Python**.
+## Projects
+
+👨‍💻 My projects are available to check on my **public portfolio**.
+
+   <a href="https://nkamazing.github.io"><img src="https://img.shields.io/badge/Portfolio-Click_Here-blue?style=for-the-badge" alt="Portfolio" style="vertical-align: middle;"></a>
 
 ## My contributions
 
-<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true" alt="Nicolas's GitHub stats" /></a>
+<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=false" alt="Nicolas's GitHub stats" /></a>
 <a href="https://github.com/NKAmazing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKAmazing&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true,html"/></a>
 
-## Working Tools
+## Most Used Working Tools
 
 <p align="left"> 
 
@@ -17,34 +24,26 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="50" height="50"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
- 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java" /></a>
-
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="flask" width="50" height="50"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
-
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
 
 </p>
 
 ## Contact with me
 
 <p align="left">
-<a href="https://stackoverflow.com/users/18696853/nkamazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nkamazing" height="50" width="50" /></a><a href="https://discord.gg/NKAmazingg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NKAmazingg" height="50" width="50" /></a>
+ 
+  <a href="www.linkedin.com/in/nicolás-mayoral-4265b0270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas mayoral" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/18696853/nkamazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nkamazing" height="50" width="50" /></a>
+  <a href="https://discord.gg/NKAmazingg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NKAmazingg" height="50" width="50" /></a>
+
 </p>
 
 <!--
+
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
