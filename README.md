@@ -1,10 +1,10 @@
 <h1 align="center">Hello there!👋 My name is Nicolas.</h1>
 
-I’m a **Software Engineering Student** at the **University of Mendoza**, Argentina. Currently, i'm learning new tecnologies that allows me to improve my skills.
+I’m a **Software Engineer** graduated from the **University of Mendoza**, Argentina. Currently, i'm learning new tecnologies that allows me to improve my skills.
 I have interests on several computer areas of programming such as **web development, database management or data science**.</b>
 
-- 🌱 I’m currently learning **AI, Data Science and Cybersecurity.**
-- 🔭 I mostly work with the programming language **Python**.
+- 🌱 I’m currently learning **AI, Data Science and Software Development.**
+- 🔭 I mostly work with the programming language **Python** but I would also like to expand my knowledge in other languages.
 ## Projects
 
 👨‍💻 My projects are available to check on my **public portfolio**.
