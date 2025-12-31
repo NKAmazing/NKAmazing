@@ -11,11 +11,6 @@ I have interests on several computer areas of programming such as **web developm
 
    <a href="https://nkamazing.github.io"><img src="https://img.shields.io/badge/Portfolio-Click_Here-blue?style=for-the-badge" alt="Portfolio" style="vertical-align: middle;"></a>
 
-## My contributions
-
-<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=false" alt="Nicolas's GitHub stats" /></a>
-<a href="https://github.com/NKAmazing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKAmazing&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true,html"/></a>
-
 ## Most Used Working Tools
 
 <p align="left"> 
@@ -43,6 +38,11 @@ I have interests on several computer areas of programming such as **web developm
 </p>
 
 <!--
+
+## My contributions
+
+<a href="http://www.github.com/NKAmazing"><img src="https://github-readme-stats.vercel.app/api?username=NKAmazing&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=false" alt="Nicolas's GitHub stats" /></a>
+<a href="https://github.com/NKAmazing" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKAmazing&layout=compact&langs_count=7&theme=codeSTACKr&hide_border=true,html"/></a>
 
 <details>
 <summary><samp><b>More Info</b></samp></summary>
