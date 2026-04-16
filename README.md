@@ -3,7 +3,7 @@
 I’m a **Software Engineer** graduated from the **University of Mendoza**, Argentina. Currently, i'm learning new tecnologies that allows me to improve my skills.
 I have interests on several computer areas of programming such as **web development, database management or data analysis**.</b>
 
-- 🌱 I’m currently learning **AI development, Data Analysis and Full-Stack Development.**
+- 🌱 I’m currently learning **AI Development, Data Analysis and Full-Stack Development.**
 - 🔭 I mostly work with the programming language **Python** but I'm also improving my knowledge of other languages such as TypeScript, JavaScript and Java.
 ## Projects
 
@@ -13,7 +13,7 @@ I have interests on several computer areas of programming such as **web developm
 
 ## Most Used Working Tools
 
-<p align="left"> 
+<p align="center"> 
 
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="50" height="50"/> </a>
@@ -29,7 +29,7 @@ I have interests on several computer areas of programming such as **web developm
 
 ## Contact with me
 
-<p align="left">
+<p align="center">
  
   <a href="https://linkedin.com/in/nicolás-mayoral-4265b0270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas mayoral" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/18696853/nkamazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nkamazing" height="50" width="50" /></a>
