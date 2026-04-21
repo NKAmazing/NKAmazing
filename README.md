@@ -5,36 +5,129 @@ I have interests on several computer areas of programming such as **web developm
 
 - 🌱 I’m currently learning **AI Development, Data Analysis and Full-Stack Development.**
 - 🔭 I mostly work with the programming language **Python** but I'm also improving my knowledge of other languages such as TypeScript, JavaScript and Java.
-## Projects
 
-👨‍💻 My projects are available to check on my **public portfolio**.
-
-   <a href="https://nicolasmayoral.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Click_Here-blue?style=for-the-badge" alt="Portfolio" style="vertical-align: middle;"></a>
-
-## Most Used Working Tools
-
-<p align="center"> 
-
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="50" height="50"/> </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/> </a>
-   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="flask" width="50" height="50"/> </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a>
-
-</p>
-
-## Contact with me
+<h2 align="center">Portfolio</h2>
 
 <p align="center">
- 
-  <a href="https://linkedin.com/in/nicolás-mayoral-4265b0270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas mayoral" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/18696853/nkamazing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nkamazing" height="50" width="50" /></a>
-  <a href="https://discord.gg/NKAmazingg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NKAmazingg" height="50" width="50" /></a>
+  <a href="https://nicolasmayoral.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_my_site-nicolasmayoral.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Portfolio on Vercel" />
+  </a>
+</p>
+<p align="center">
+  <sup>Public projects, experiments, and highlights — all in one place.</sup>
+</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="" width="100%" />
+
+<h2 align="center">Working tools</h2>
+
+<p align="center">
+  <sub>Languages, frameworks, and infra I use most often.</sub>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://react.dev" target="_blank" rel="noreferrer" title="React">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br /><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br /><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer" title="macOS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="48" height="48" alt="macOS" />
+      </a>
+      <br /><sub><b>macOS</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br /><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer" title="FastAPI">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br /><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer" title="TypeScript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br /><sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br /><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br /><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br /><sub><b>Git</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br /><sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br /><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="" width="100%" />
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  <sub>Feel free to reach out — I’m happy to connect.</sub>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nicolás-mayoral-4265b0270" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/18696853/nkamazing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/NKAmazingg" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 <!--
