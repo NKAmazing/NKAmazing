@@ -3,7 +3,7 @@
 I’m a **Software Engineer** graduated from the **University of Mendoza**, Argentina. Currently, i'm learning new tecnologies that allows me to improve my skills.
 I have interests on several computer areas of programming such as **Full-Stack development, Backend development or Data Analysis**.</b>
 
-- 🌱 I’m currently learning **AI Development, Data Analysis and Software Automation.**
+- 🌱 I’m currently learning **AI Development, DevOps fundamentals and Software Automation.**
 - 🔭 I mostly work with the programming language **Python** but I'm also improving my knowledge of other languages such as TypeScript, JavaScript and Java.
 
 <h2 align="center">Portfolio</h2>
