@@ -9,8 +9,8 @@ I have interests on several computer areas of programming such as **Full-Stack d
 <h2 align="center">Portfolio</h2>
 
 <p align="center">
-  <a href="https://nicolasmayoral.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit_my_site-nicolasmayoral.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Portfolio on Vercel" />
+  <a href="https://nicolasmayoral.com/">
+    <img src="https://img.shields.io/badge/Visit_my_site-nicolasmayoral.com-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" alt="Portfolio on Vercel" />
   </a>
 </p>
 <p align="center">
