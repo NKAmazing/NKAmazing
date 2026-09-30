@@ -1,9 +1,8 @@
 <h1 align="center">Hello there!👋 My name is Nicolas.</h1>
 
-I’m a **Software Engineer** graduated from the **University of Mendoza**, Argentina. Currently, i'm learning new tecnologies that allows me to improve my skills.
-I have interests on several computer areas of programming such as **Full-Stack development, Backend development or Data Analysis**.</b>
+I'm a **Software/IT Engineer** graduated from **University of Mendoza**. Currently living in Argentina but available to work remotely or on-site, depending on the employment contract offered. I have strong competence on several computer areas of IT Engineering such as **Full-Stack development, Computer Science or Data Analysis**.</b>
 
-- 🌱 I’m currently learning **AI Development, DevOps fundamentals and Software Automation.**
+- 🌱 I’m currently learning new tecnologies that allows me to improve my skills, such as: **AI Development, DevOps fundamentals and Software Automation.**
 - 🔭 I mostly work with the programming language **Python** but I'm also improving my knowledge of other languages such as TypeScript, JavaScript and Java.
 
 <h2 align="center">Portfolio</h2>
